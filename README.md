@@ -96,7 +96,7 @@ Chaque projet inclut :
 ## 📫 Me contacter
 
 📧 [justindavid.ondo@gmail.com](mailto:justindavid.ondo@gmail.com)  
-🌍 [LinkedIn – David ONDO](#) *(à ajouter)*  
+🌍 [LinkedIn – David ONDO](www.linkedin.com/in/davidondo)
 📍 Basé à Paris  
 
 ---
