@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est **David ONDO**
 
-🎯 **Data Analyst** en formation à l’[Université Paris Cité](https://u-paris.fr/), en **Master d’Économie Appliquée**, avec une double compétence en **Systèmes d’Information** et en **analyse de données appliquée à la décision**.  
+🎯 **Data Analyst** en formation à l’[Université Paris Cité](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/droit-economie-gestion-DEG/economie-appliquee-K2NDI6AN/master-economie-appliquee-JT8NTVMB.html), en **Master d’Économie Appliquée**, avec une double compétence en **Systèmes d’Information** et en **analyse de données appliquée à la décision**.  
 Je conçois et exploite des modèles de données pour transformer la complexité économique en insights exploitables.
 
 ---
@@ -78,9 +78,9 @@ Chaque projet inclut :
 
 ## 🏅 Certifications
 
-- 🎓 [Data Analyst Associate in SQL – DataCamp](https://www.datacamp.com/)  
-- 🎓 [Scrum Fundamentals Certified – ScrumStudy](https://www.scrumstudy.com/)  
-- 🎓 [Personal Data Protection in Africa – Africa Data Protection](https://africadataprotection.com/)  
+- 🎓 [Data Analyst Associate in SQL – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/53f75d6b2c21c8e9520879bac2c8f62cfe5e51eb)
+- 🎓 [Scrum Fundamentals Certified – ScrumStudy](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JustinONDO-1079528.pdf)
+- 🎓 [Personal Data Protection in Africa – Africa Data Protection](https://www.linkedin.com/in/davidondo/overlay/1733416282112/single-media-viewer?type=DOCUMENT&profileId=ACoAADDh4jEBk1xtYCi0Ev0hmBDZMI-4-Q7MOe4&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2FcC%2Bo0KiS9uQoJUXZkZO9w%3D%3D)
 
 ---
 
