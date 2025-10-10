@@ -5,14 +5,14 @@ Je conçois et exploite des modèles de données pour transformer la complexité
 
 ---
 
-## 🧠 Ce que je fais
+## 🗃️ Projets
 
-- 📈 **Analyse de données et modélisation** : régressions, analyses exploratoires, data mining  
-- 📊 **Reporting & Business Intelligence** : Power BI, DAX, modèles en étoile, storytelling data  
-- 💾 **Gestion et manipulation de bases de données** : SQL (jointures, agrégations, fenêtrage), PL/SQL  
-- ⚙️ **Automatisation & fiabilité des analyses** : Excel avancé, VBA, scripts Python (pandas, matplotlib)  
+**1. Analyse des données RH**
+*Descriptif* : J’ai conduit une analyse exploratoire sur les performances et l’attrition du personnel afin d’identifier les facteurs clés associés au départ des employés.
+À partir de données RH anonymisées, j’ai construit des visualisations interactives (Power BI) pour croiser les indicateurs de performance, de satisfaction et d’ancienneté.
+L’étude a permis de mettre en évidence le rôle déterminant du taux d’heures supplémentaires et de la fréquence des voyages d'affaires dans la rétention des employés.
+*Lien Github* : (à faire)
 
-💡 *Mon approche : allier rigueur analytique et pertinence métier pour faire parler les données.*
 
 ---
 
