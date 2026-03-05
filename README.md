@@ -13,7 +13,14 @@ Je conçois et exploite des modèles de données pour transformer la complexité
 À partir de données RH anonymisées, j’ai construit des visualisations interactives (Power BI) pour croiser les indicateurs de performance, de satisfaction et d’ancienneté.
 L’étude a permis de mettre en évidence le rôle déterminant du taux d’heures supplémentaires et de la fréquence des voyages d'affaires dans la rétention des employés.
 
-*Lien Github* : [https://github.com/davidpackm/hr_analytics](https://github.com/davidpackm/hr_analytics)
+*Lien GitHub* : [https://github.com/davidpackm/hr_analytics](https://github.com/davidpackm/hr_analytics)
+
+**2. Automatisation VBA d'un reporting hospitalier**
+
+*Descriptif* : Ce projet consiste à automatiser, sous Excel VBA, le nettoyage, la consolidation et l’analyse de données hospitalières mensuelles dans un contexte d’organisme public. Il permet de contrôler la structure des fichiers sources, corriger les anomalies, supprimer les doublons, fusionner plusieurs bases mensuelles et générer automatiquement un tableau de bord consolidé avec des indicateurs clés (durée moyenne de séjour, coût moyen, volume de séjours par hôpital, spécialités les plus coûteuses). L’objectif est de fiabiliser la donnée, réduire le temps de traitement manuel et produire un reporting exploitable pour l’aide à la décision.
+
+*Lien GitHub* : https://github.com/davidpackm/vba_consolidation 
+
 
 
 ---
