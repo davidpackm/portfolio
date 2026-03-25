@@ -52,35 +52,37 @@ L’étude a permis de mettre en évidence le rôle déterminant du taux d’heu
 ### **Assistant Business Intelligence – Afriland First Bank**
 📍 Yaoundé, Cameroun | 08/2023 – 10/2023  
 
-- Élaboration des rapports de suivi mensuel d'une dizaine d'agences du réseau de la banque  
-- Réduction du temps de reporting en déployant un **partitionnement horizontal** des tables du Data Warehouse sur **Sybase IQ** — test effectué en **PL/SQL**  
-- Apprentissage des méthodes d'administration de bases de données sous **Oracle Database**
+•	Analyse de la performance mensuelle d’un réseau d’une dizaine d’agences à travers la production de reportings mensuels mettant en évidence les principales tendances, écarts et indicateurs de suivi
+•	Contribution à l’optimisation des délais de production des reportings grâce au partitionnement de tables du Data Warehouse, afin d’améliorer l’efficacité du processus de diffusion des analyses
+•	Participation à la fiabilisation et à la sécurisation des données par une initiation aux pratiques d’administration de bases de données et aux procédures de sauvegarde
+
 
 ---
 
 ### **Chargé d’Études Statistiques Stagiaire – Institut National de la Statistique**
 📍 Yaoundé, Cameroun | 05/2022 – 07/2022  
 
-- Veiller à la validité d'une base de données Excel (+1000 enregistrements) afin d'en faciliter l'exploitation  
-- Superviser le déroulement d'une enquête pilote (formation, évaluation des enquêteurs, test des documents techniques)  
-- Analyser les données économiques et financières du secteur mécanique sur un échantillon de 25 entreprises  
+•	Contrôle, nettoyage et harmonisation d’une base Excel de plus de 1 000 enregistrements afin de garantir la qualité des données mobilisées dans une étude économique et financière
+•	Appui à la coordination d’une enquête pilote : préparation des outils méthodologiques, accompagnement des équipes d’enquête et participation à la phase de test
+•	Réalisation d’une analyse économique sectorielle du secteur mécanique à partir de données d’entreprises afin d’identifier les principales tendances et les enjeux du secteur
+ 
 
 ---
 
 ## 🎓 Formation
 
 🎓 **Master en Économie Appliquée** – *Université Paris Cité* (2025 – 2027, actuellement en M1)  
-Cours : Data Science avec Python, Économétrie, Théorie des jeux  
+Cours : Data Science avec Python, Économétrie, Théorie des jeux, Excel Avancé (VBA), Data Visualisation  
 
 🎓 **Master en Management et Systèmes d’Information** – *Université Catholique d’Afrique Centrale* (2022 – 2025)  
-Cours : Finance des marchés, Systèmes d’aide à la décision, ERP, Data Mining  
+Cours : Finance des marchés, Systèmes d’aide à la décision, ERP, Data Mining, Data Analytics, Bases de données 
 
 🎓 **Licence en Économie de Gestion** – *Université Catholique d’Afrique Centrale* (2019 – 2022)  
 Cours : Statistiques & Économétrie, Gestion budgétaire, Recherche opérationnelle  
 
 ---
 
-## 📂 Ce que tu trouveras ici
+## 📂 Ce que vous trouverez ici
 
 Je partage ici mes **projets académiques et personnels** :  
 
@@ -117,9 +119,9 @@ Chaque projet inclut :
 
 ## 🌍 Centres d’intérêt
 
-📚 Romans thrillers & histoire  
+📚 Romans thrillers & histoire
 ⚽ Football  
-💡 Nouvelles technologies & IA générative  
+💡 Lecture de livres et mangas 
 🎤 Communication et événements académiques (CACAIS Conferences 2023–2024)
 
 ---
