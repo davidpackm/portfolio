@@ -21,6 +21,29 @@ L’étude a permis de mettre en évidence le rôle déterminant du taux d’heu
 
 *Lien GitHub* : [https://github.com/davidpackm/vba_consolidation ](https://github.com/davidpackm/vba_consolidation)
 
+**3. Dashboard de pilotage des prêts immobiliers**
+
+*Descriptif* : Conception d’un dashboard Power BI de pilotage de l’activité des prêts immobiliers dans un cas simulé. Le projet permet de suivre les demandes de prêts, comparer les performances des agences et consulter les principaux indicateurs clients afin de faciliter l’analyse des dossiers et le pilotage opérationnel.
+
+*Lien GitHub* : [https://github.com/davidpackm/real-estate-loan-dashboard-powerbi](https://github.com/davidpackm/real-estate-loan-dashboard-powerbi)
+
+**4. Analyse territoriale des plantations d’arbres en Île-de-France**
+
+*Descriptif* : Réalisation d’un dashboard Power BI d’analyse territoriale des projets de plantation en Île-de-France. Le projet met en évidence le volume des efforts, l’intensité des opérations et la concentration territoriale des plantations à travers des indicateurs comparatifs et des visualisations géographiques.
+
+*Lien GitHub* : [https://github.com/davidpackm/powerbi-tree-planting-dashboard](https://github.com/davidpackm/powerbi-tree-planting-dashboard)
+
+**5. Credit scoring par régression logistique**
+
+*Descriptif*  : Développement d’un modèle de régression logistique pour prédire l’acceptation ou le refus d’une demande de crédit à la consommation à partir de 4 446 cas réels. Le projet mobilise des techniques de préparation de données, de modélisation statistique et d’évaluation de performance dans une logique d’aide à la décision.
+
+*Lien GitHub* : [https://github.com/davidpackm/credit-scoring-logistic-regression](https://github.com/davidpackm/credit-scoring-logistic-regression)
+
+**6. Analyse électorale de la présidentielle française de 2022**
+
+*Descriptif*  : Analyse statistique des résultats de l’élection présidentielle française de 2022 à l’aide d’une étude descriptive, d’une Analyse Factorielle des Correspondances (AFC) et d’une Classification Ascendante Hiérarchique (CAH). Le projet vise à faire ressortir les principaux clivages électoraux et à identifier des groupes homogènes de comportements de vote.
+
+*Lien GitHub* :
 
 ---
 
